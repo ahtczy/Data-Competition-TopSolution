@@ -115,8 +115,10 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 22. Kaggle Home Credit违约风险预测   
    Rank1: http://t.cn/RFsoHgv
+   
    Rank23: https://blog.csdn.net/maqunfi/article/details/82284421
 23. Kaggle客户违约预测
+
    Rank1: https://blog.csdn.net/zhangf666/article/details/53896335
 24. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
