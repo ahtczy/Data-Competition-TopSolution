@@ -121,10 +121,10 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 	 
 24. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
-25. 2018dc-新网银行杯
+25. 2018 dc-新网银行杯  
    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3   
    Rank4：https://github.com/TingNie/CreditForecast  
-26. 澳新银行数据竞赛
+26. 2018 dc-澳新银行数据竞赛  
    Rank4:https://github.com/isthegoal/ANZ_Chengdu_rank4_solution
 
 ## 二、NLP：
